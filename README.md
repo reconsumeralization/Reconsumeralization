@@ -1,22 +1,24 @@
-- 👋 Hi, I’m @reconsumeralization
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello, World! 🌍 I'm @reconsumeralization
 
-Https://www.agiaify.com
+🚀 About Me
 
-Https://www.webduh.com
+    🎓 A tech enthusiast with a passion for innovation and creativity.
+    🎨 My GitHub repositories reflect my journey in the tech world, showcasing various projects and interests.
+    🌱 Always eager to learn, explore, and contribute to the open-source community.
 
-Https://www.doanarchy.com
-<!---
-reconsumeralization/reconsumeralization is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Interests
 
-<iframe width="760px" height="500px" src="https://sway.office.com/s/cgSSI4FjXe6HV0Tr/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+    🌌 Diving deep into the realms of technology and software development.
+    🛠 Crafting solutions, tools, and applications that make a difference.
+    🎧 Finding inspiration in every corner, from music to nature.
 
+💼 Collaborations
 
-Solar Battery Back-up
-https://clipchamp.com/watch/bzPeHGxa5PW
-Go to this Sway
+    Open to collaborations, partnerships, and innovative projects.
+    If you have an idea or a project in mind, let's connect and bring it to life!
+
+📬 Get in Touch
+
+    GitHub: reconsumeralization
+
+    <3 My Wife <3 My son
